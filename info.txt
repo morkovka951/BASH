@@ -1,0 +1,2 @@
+/etc/crontabe 
+  */3 * * * *     root    /home/morkovka/ipCountry/ip.sh
